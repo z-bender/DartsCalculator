@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Darts Calculator</string>
+    <string name="button_step">Ход</string>
 </resources>
